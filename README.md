@@ -17,3 +17,6 @@ react-redux && redux: for stage management
 
 ### platforms.
 This project should work fine both on android and ios, however it has only been tested on android
+
+# Algebraic Function
+$$ f(x) = 3x + 2 $$
